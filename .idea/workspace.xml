@@ -3,6 +3,49 @@
   <component name="ChangeListManager">
     <list default="true" id="782b1460-b803-47c7-bd98-61831be6e535" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/pages/about/Partneri.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/pages/about/Partneri.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/SocketManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/SocketManager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/config/keys.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/keys.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/config/keys_dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/keys_dev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/config/keys_prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/keys_prod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/config/passport.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/passport.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/models/Blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Blog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/models/Email.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Email.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/models/Friend.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Friend.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/models/Group.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Group.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/models/Post.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/models/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/models/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/User.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/models/VipCardRequest.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/VipCardRequest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/routes/api/blogs.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/blogs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/routes/api/chats.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/chats.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/routes/api/emails.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/emails.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/routes/api/friends.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/friends.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/routes/api/posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/posts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/routes/api/profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/routes/api/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/routes/api/viprequests.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/viprequests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/uploads/business-1536236_1280.png" beforeDir="false" afterPath="$PROJECT_DIR$/uploads/business-1536236_1280.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/uploads/level1.png" beforeDir="false" afterPath="$PROJECT_DIR$/uploads/level1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/uploads/undefined205767e931d3c6f.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/uploads/undefined205767e931d3c6f.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/uploads/undefinedcalendar_cell.png" beforeDir="false" afterPath="$PROJECT_DIR$/uploads/undefinedcalendar_cell.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/uploads/undefinedlevel1.png" beforeDir="false" afterPath="$PROJECT_DIR$/uploads/undefinedlevel1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/validation/articles.js" beforeDir="false" afterPath="$PROJECT_DIR$/validation/articles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/validation/blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/validation/blog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/validation/businessplan.js" beforeDir="false" afterPath="$PROJECT_DIR$/validation/businessplan.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/validation/comment.js" beforeDir="false" afterPath="$PROJECT_DIR$/validation/comment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/validation/company.js" beforeDir="false" afterPath="$PROJECT_DIR$/validation/company.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/validation/education.js" beforeDir="false" afterPath="$PROJECT_DIR$/validation/education.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/validation/experience.js" beforeDir="false" afterPath="$PROJECT_DIR$/validation/experience.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/validation/is-empty.js" beforeDir="false" afterPath="$PROJECT_DIR$/validation/is-empty.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/validation/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/validation/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/validation/post.js" beforeDir="false" afterPath="$PROJECT_DIR$/validation/post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/validation/profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/validation/profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/validation/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/validation/register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server/validation/vipcard.js" beforeDir="false" afterPath="$PROJECT_DIR$/validation/vipcard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +73,8 @@
           <entry key="gitignore" value="2" />
           <entry key="html" value="11" />
           <entry key="jpg" value="1" />
-          <entry key="js" value="991" />
-          <entry key="json" value="10" />
+          <entry key="js" value="992" />
+          <entry key="json" value="12" />
           <entry key="png" value="3" />
           <entry key="scss" value="128" />
           <entry key="ts" value="8" />
@@ -42,8 +85,8 @@
           <entry key="CSS" value="6" />
           <entry key="HTML" value="11" />
           <entry key="Image" value="4" />
-          <entry key="JSON" value="10" />
-          <entry key="JavaScript" value="991" />
+          <entry key="JSON" value="12" />
+          <entry key="JavaScript" value="992" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="SCSS" value="128" />
           <entry key="TypeScript" value="8" />
@@ -58,7 +101,7 @@
         <counts>
           <entry key="css" value="17" />
           <entry key="html" value="11" />
-          <entry key="js" value="67988" />
+          <entry key="js" value="67997" />
           <entry key="json" value="58" />
           <entry key="scss" value="5633" />
         </counts>
@@ -68,7 +111,7 @@
           <entry key="CSS" value="17" />
           <entry key="HTML" value="11" />
           <entry key="JSON" value="58" />
-          <entry key="JavaScript" value="67988" />
+          <entry key="JavaScript" value="67997" />
           <entry key="SCSS" value="5633" />
         </counts>
       </usages-collector>
@@ -100,8 +143,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/src/components/pages/about/Partneri.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+            <state relative-caret-position="24">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -110,6 +153,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="77" column="29" selection-start-line="77" selection-start-column="29" selection-end-line="77" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/sass/components/_flipcard.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="478">
@@ -166,8 +218,8 @@
       <find>heig</find>
       <find>cente</find>
       <find>sideb</find>
-      <find>marg</find>
       <find>partner</find>
+      <find>marg</find>
       <find>partne</find>
     </findStrings>
   </component>
@@ -177,7 +229,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/client/sass/components/_about-us-card.scss" />
         <option value="$PROJECT_DIR$/client/src/components/friends/friendList/Friends.js" />
         <option value="$PROJECT_DIR$/client/src/components/mail/components/EmailSidebar.js" />
         <option value="$PROJECT_DIR$/client/src/components/mail/components/ComposeNewMail.js" />
@@ -225,9 +276,10 @@
         <option value="$PROJECT_DIR$/client/src/components/footer/Footer.js" />
         <option value="$PROJECT_DIR$/client/sass/_footer.scss" />
         <option value="$PROJECT_DIR$/client/sass/main.scss" />
-        <option value="$PROJECT_DIR$/client/src/components/pages/about/Partneri.js" />
         <option value="$PROJECT_DIR$/client/sass/onama/_onama.scss" />
         <option value="$PROJECT_DIR$/client/sass/components/_flipcard.scss" />
+        <option value="$PROJECT_DIR$/client/src/components/pages/about/Partneri.js" />
+        <option value="$PROJECT_DIR$/server.js" />
       </list>
     </option>
   </component>
@@ -247,7 +299,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="472" />
     <option name="y" value="223" />
     <option name="width" value="960" />
@@ -274,95 +326,6 @@
               <item name="Disenat" type="462c0819:PsiDirectoryNode" />
               <item name="client" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Disenat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Disenat" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="sass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Disenat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Disenat" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="sass" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Disenat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Disenat" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="sass" type="462c0819:PsiDirectoryNode" />
-              <item name="onama" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Disenat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Disenat" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Disenat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Disenat" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Disenat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Disenat" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Disenat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Disenat" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="landing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Disenat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Disenat" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="reducers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Disenat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Disenat" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Disenat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Disenat" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Disenat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Disenat" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Disenat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Disenat" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -372,7 +335,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538672859070" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538676665987" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Test build" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -385,11 +348,11 @@
       <recent name="C:\Projekti\Disenat\client\public\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projekti\Disenat\client\src" />
+      <recent name="C:\Projekti\Disenat\client" />
+      <recent name="C:\Projekti\Disenat" />
       <recent name="C:\Projekti\Disenat\client\src\images" />
       <recent name="C:\Projekti\Disenat\client\src\components\chat\sidebar" />
-      <recent name="C:\Projekti\Disenat\client\src" />
-      <recent name="C:\Projekti\Disenat\client\src\server" />
-      <recent name="C:\Projekti\Disenat\client\public\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -420,12 +383,12 @@
       <workItem from="1537603309265" duration="142365000" />
       <workItem from="1537815012735" duration="98602000" />
       <workItem from="1538121418633" duration="14451000" />
-      <workItem from="1538484340249" duration="48400000" />
+      <workItem from="1538484340249" duration="49731000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="435416000" />
+    <option name="totallyTimeSpent" value="436747000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -437,7 +400,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18176973" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -506,35 +470,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/client/src/components/posts/PostForm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1584">
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/actions/postActions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="102" column="13" selection-start-line="102" selection-start-column="13" selection-end-line="102" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/components/post/CommentForm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="112" column="66" lean-forward="true" selection-start-line="112" selection-start-column="66" selection-end-line="112" selection-end-column="66" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/src/components/post/Post.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -643,7 +578,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/server/routes/api/emails.js">
+    <entry file="file://$PROJECT_DIR$/routes/api/emails.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-371">
           <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
@@ -749,7 +684,7 @@
           <caret line="238" column="89" selection-start-line="238" selection-start-column="89" selection-end-line="238" selection-end-column="89" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
-            <marker date="1538654460051" expanded="false" signature="2799:4221" ph="..." />
+            <marker date="1538676360830" expanded="false" signature="2799:4221" ph="..." />
           </folding>
         </state>
       </provider>
@@ -842,14 +777,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/server/routes/api/profile.js">
+    <entry file="file://$PROJECT_DIR$/routes/api/profile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="295" column="70" selection-start-line="295" selection-start-column="70" selection-end-line="295" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/server/models/VipCardRequest.js">
+    <entry file="file://$PROJECT_DIR$/models/VipCardRequest.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
           <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
@@ -870,10 +805,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/server/routes/api/viprequests.js">
+    <entry file="file://$PROJECT_DIR$/routes/api/viprequests.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/server/models/Email.js">
+    <entry file="file://$PROJECT_DIR$/models/Email.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1104">
           <caret line="49" column="14" selection-end-line="65" />
@@ -904,20 +839,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/components/pages/about/Partneri.js">
+    <entry file="file://$PROJECT_DIR$/client/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-635" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-131" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/sass/components/_flipcard.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="478">
           <caret line="96" column="24" selection-start-line="96" selection-start-column="24" selection-end-line="96" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/components/pages/about/Partneri.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="77" column="29" selection-start-line="77" selection-start-column="29" selection-end-line="77" selection-end-column="29" />
         </state>
       </provider>
     </entry>

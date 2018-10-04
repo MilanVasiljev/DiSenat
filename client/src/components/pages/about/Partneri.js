@@ -15,6 +15,7 @@ class Partneri extends Component {
 
     render(){
 
+
         const {profile} = this.props;
         let smallArticles;
 

@@ -2,7 +2,7 @@
   "name": "disenat",
   "version": "1.0.0",
   "description": "DiSenat web site",
-  "main": "client/src/server/server.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "server": "nodemon server.js",
