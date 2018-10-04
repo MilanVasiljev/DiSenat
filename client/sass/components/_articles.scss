@@ -1,0 +1,126 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+.card-news {
+  position: relative;
+  //height: 450px;
+  //width: 60vw;
+  margin: 40px auto;
+  background-color: #FFF;
+  -webkit-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
+  max-width: 70vw;
+  padding: 0 1rem;
+
+}
+
+/* Image on the left side */
+.thumbnail {
+  float: left;
+  position: relative;
+  left: 30px;
+  top: -30px;
+  height: 320px;
+  width: 530px;
+  object-fit: cover;
+  -webkit-box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
+  overflow: hidden;
+
+}
+
+/*object-fit: cover; */
+/*object-position: center; */
+img.left {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  height: auto;
+  width: 100%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+
+
+}
+
+/* Right side of the card */
+.right {
+  margin-left: 590px;
+  margin-right: 20px;
+  //display: inline;
+  //float: left;
+
+
+}
+
+.news-header-1 {
+  padding-top: 15px;
+  font-size: 2.8rem;
+  color: #4B4B4B;
+  margin: auto;
+  position: center;
+  margin-top: 10rem;
+}
+
+.separator {
+  margin-top: 10px;
+  border: 1px solid #C3C3C3;
+}
+
+.news-paragraph {
+  text-align: justify;
+  padding-top: 10px;
+  font-size: 1.4rem;
+  line-height: 150%;
+  color: #4B4B4B;
+  padding: 2rem;
+  font-size: 1.6rem;
+
+  display: inline-block;
+  //margin-left: 105px;
+  vertical-align: top;
+
+}
+
+news-paragraph p, img{
+  max-width: 50vw;
+  @media only screen and (max-width: 1330px) {
+    max-height: 30rem;
+    max-width: 87vw;
+    margin: auto;
+  }
+
+}
+
+/* Floating action button */
+.circlefab {
+  position: absolute;
+  right: 20px;
+  bottom: -95px;
+  box-sizing: border-box;
+  padding-top: 24px;
+  background-color: var(--color-primary);
+  width: 80px;
+  height: 80px;
+  color: white;
+  text-align: center;
+  border-radius: 50%;
+  -webkit-box-shadow: 10px 10px 50px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 50px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 50px 0px rgba(0, 0, 0, 0.75);
+  transition: ease all .3s;
+
+  &:hover{
+    cursor: pointer;
+    background-color: #cda785;
+  }
+
+}
+
+.kompanija-podaci{
+  float: left;
+  //display:inline-block;
+  //margin-top: 20rem;
+}

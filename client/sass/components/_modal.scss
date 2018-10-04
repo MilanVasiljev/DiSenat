@@ -1,0 +1,129 @@
+.Modal {
+  position: absolute;
+  top: 8.5vh;
+  left: 4.5vw;
+  right: 4.5vw;
+  bottom: 30vh;
+  background-color: white;
+  border-radius: 1rem;
+  outline: none;
+  border: 2px solid var(--color-primary);
+  overflow-y: auto;
+  //display: flex;
+  //flex-direction: column;
+
+  &__sidebar{
+    grid-column: 2/3;
+    border: none;
+    //border-left:3px solid $color-secondary;
+    //border: 3px solid $color-secondary;
+    border-radius: 0rem;
+    right: 70vw;
+    top: 0vh;
+    bottom: 0vh;
+    left: 8rem;
+    padding: 2rem;
+    z-index: 0;
+    background-color: white;
+
+  }
+
+
+  &__heading{
+    font-size: 3rem;
+    padding: 2rem;
+
+    &--2{
+      text-align: center;
+      font-size: 1.6rem;
+      padding: 1rem;
+      //margin: 1rem;
+      //border-bottom: 1px solid $color-secondary;
+
+      &:hover{
+        background-color: var(--color-primary);
+        color: white;
+      }
+    }
+  }
+
+  &_image{
+    //height: 30rem;
+    //grid-column: 1/-1;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+
+  }
+
+  &__paragraph{
+    font-size: 1.6rem;
+    //padding: 1rem;
+    text-indent: 4rem;
+    padding: 0 2rem;
+    margin-bottom: 2rem;
+  }
+}
+
+//::-webkit-scrollbar {
+//  width: 15px;
+//  height: 15px;
+//}
+//
+//::-webkit-scrollbar-track-piece  {
+//  background-color: white;
+//}
+//
+//::-webkit-scrollbar-thumb:vertical {
+//  height: 30px;
+//  background-color: $color-secondary;
+//}
+
+.Overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: transparent;
+}
+
+.model-padding{
+  align-self: flex-end;
+  padding-left: 18rem;
+  margin-top: -4rem;
+  margin-bottom: 3rem;
+  color: var(--color-primary);
+  text-transform: none;
+}
+
+.span-across{
+
+}
+
+.modal__image{
+  //align-self: center;
+  //justify-self: center;
+  //margin: auto;
+  //height: 20rem;
+  width: 30rem;
+  margin: auto;
+  //border: 3px solid green;
+  padding: 10px;
+  //display: flex;
+  //align-self: center;
+  //justify-self: center;
+}
+
+// SECTIONS FOR PARALLAX
+
+.container__modal{
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+
+}

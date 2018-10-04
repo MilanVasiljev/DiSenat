@@ -1,0 +1,69 @@
+.experience-title{
+  font-size: 1.7rem;
+  margin: 1rem 2.5rem;
+  margin-top: 2rem;
+  font-weight: 600;
+  //padding: 1rem;
+
+}
+
+.table-dashboard{
+  display: flex;
+  margin: 1rem;
+  padding: 1rem;
+  //border: 1px solid #000000;
+  //justify-content: center;
+  text-align: left;
+
+  &__item {
+    //background: red;
+    font-size: 1.7rem;
+    padding: 1rem;
+    margin: 1rem;
+    border: 1px solid #000000;
+
+    &--bp {
+      border: none;
+      text-align: justify;
+      padding: 2rem;
+    }
+  }
+
+  &__button {
+    font-size: 1.7rem;
+    border: none;
+    background-color: red;
+    color: #ffffff;
+    padding: 1rem 2rem;
+    margin: 1rem;
+
+  }
+
+  &__businessplan {
+    display: grid;
+  }
+}
+
+.collapsable {
+  border: none;
+  text-decoration: none;
+  background-color: var(--color-primary-dark);
+  color: #ffffff;
+  font-weight: 100;
+  font-size: 2rem;
+  padding: 1rem;
+  margin: 0;
+  //display: inline-block;
+}
+
+.expandable-wrapper {
+  display: flex;
+  flex-direction: column;
+  //justify-content: center;
+  //align-items: center;
+  align-content: center;
+  margin: 2rem;
+
+  //align-items: center;
+
+}

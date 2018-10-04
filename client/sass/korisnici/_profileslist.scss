@@ -1,0 +1,40 @@
+.profili-korisnika-wrapper{
+  display: grid;
+  background-color: white;
+}
+
+
+.profile-list{
+  display: flex;
+  //width: 30vw;
+  justify-items: center;
+  align-items: center;
+  align-content: center;
+  //justify-self: center;
+  padding: 1rem;
+  border: 1px solid var(--color-primary-dark);
+  margin: 1rem;
+
+  &__username {
+    font-size: 1.8rem;
+    text-decoration: none;
+    color: var(--color-primary-dark);
+  }
+
+  &__data{
+    color: var(--color-primary-dark);
+    font-size: 1.4rem;
+
+  }
+
+  &__lista {
+    margin: 0 3rem;
+    display: flex;
+    font-size: 1.4rem;
+    text-decoration: none;
+    list-style: none;
+
+
+  }
+
+}

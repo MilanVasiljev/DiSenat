@@ -1,0 +1,284 @@
+.profile-wrapper{
+  display: flex;
+  align-items: center;
+
+
+  &__image {
+    height: 15rem;
+    width: 15rem;
+    margin: 1rem;
+  }
+
+  &__upload-image{
+  margin-left: 1rem;
+  }
+
+}
+
+.about-wrapper{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  margin: 2rem;
+}
+
+.profile-content{
+  //margin: 1rem;
+  padding: 1rem;
+  background-color: var(--color-white);
+  //background-color: lightgray;
+  background-color: white;
+}
+
+.social-wrapper{
+  display: flex;
+  align-self: flex-start;
+  margin-top: 2rem;
+  margin-left: 1rem;
+  //justify-items: auto;
+}
+
+.social-net-links{
+  color: var(--color-primary-dark);
+  font-size: 2rem;
+  margin: 1rem;
+  align-self: end;
+
+}
+
+.border-bottom{
+  border-bottom: 1px solid var(--color-primary);
+}
+
+.about-section{
+  border-top: 1px solid var(--color-primary);
+}
+
+.skills-wrapper{
+  display: flex;
+  flex-wrap: wrap;
+  //grid-template-columns: repeat(auto-fit, minmax(min-content, max-content));
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 1rem;
+  //padding-right:1rem;
+  padding: 1rem;
+  border: 1px solid var(--color-primary);
+  border-radius: 1rem;
+
+  &__iskustvo{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    justify-items: center;
+  }
+
+}
+
+.skills-text{
+  font-size: 1.6rem;
+  margin-right: 1rem;
+  padding: .7rem;
+  margin: .5rem;
+  border-radius: 1rem;
+  background-color: var(--color-primary);
+  color: white;
+}
+
+.profile-header{
+  font-size: 1.6rem;
+  color: var(--color-primary-dark);
+}
+
+.bold-me{
+  font-weight: 600;
+}
+
+.liste-podataka{
+  text-decoration: none;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  margin: 1rem;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  justify-items: center;
+  flex-wrap: wrap;
+  //width: 50vw;
+  align-self: center;
+  padding: 1rem;
+  font-size: 1.6rem;
+
+  &__ime {
+    margin-right: 1rem;
+  }
+}
+
+.grid-full-wrap{
+  margin: 2rem;
+  grid-column: 1/-1;
+}
+
+.grid-items-profile{
+  margin: 2rem;
+  //border: 1px solid var(--color-primary-light);
+  //background-color: var(--color-primary-light);
+  //border-radius: 1rem;
+}
+
+.busplan{
+  flex-direction: column;
+  padding: 1rem;
+  margin: 2rem;
+
+  &__ime{
+    margin-bottom: 1rem;
+  }
+
+  &__opis {
+    margin-top: 1rem;
+    padding: 2rem;
+  }
+
+}
+
+.btn-centered{
+  //align-self: flex-start;
+  //justify-self: center;
+
+}
+
+.text-info{
+  color: #00B2EE;
+}
+
+.zahtevi-za-clanstvo{
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--color-primary);
+  border-radius: 1rem;
+  justify-self: center;
+  justify-items: center;
+  justify-content: center;
+  align-content: center;
+  align-items: flex-start;
+  padding: 1rem 3rem;
+
+
+  &__text {
+    margin-left: 1rem;
+
+  }
+
+  &__accept{
+    border: none;
+    background-color: #7ed56f;
+    color: white;
+    padding: 1rem;
+    margin: 1rem;
+    font-size: 1.6rem;
+    transition: ease all .1s;
+
+    &:hover{
+      cursor: pointer;
+      transform: scale(1.02);
+    }
+  }
+
+  &__reject{
+    border: none;
+    background-color: red;
+    color: white;
+    padding: 1rem;
+    margin: 1rem;
+    font-size: 1.6rem;
+    transition: ease all .1s;
+
+    &:hover{
+      cursor: pointer;
+      transform: scale(1.02);
+    }
+  }
+}
+
+.clanstvo-wrapper{
+  position: relative;
+  overflow: hidden;
+  float: left;
+  clear: left;
+}
+
+.upload-btn-wrapper {
+  position: relative;
+  overflow: hidden;
+  display: inline-block;
+  padding-left: 1rem;
+}
+
+.uploadFilesButton-wrapper {
+  color: var(--color-white);
+  background-color: var(--color-primary-dark);
+  padding: .5rem 2rem;
+  font-size: 1.6rem;
+}
+
+.uploadFilesButton:hover{
+  cursor: pointer;
+}
+
+.uploadFilesButton
+{
+  font-size: 100px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+}
+
+.dashboard{
+  padding-bottom: 2rem;
+  margin-bottom: 2rem;
+}
+
+
+.create-profile-card{
+
+  border: 1px solid var(--color-primary);
+  width: 40vw;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+
+  &--heading{
+
+    background-color: var(--color-primary);
+    color: white;
+    font-size: 1.7rem;
+    padding: 1rem;
+    text-align: center;
+
+  }
+
+  &--content{
+    height: 20rem;
+    font-size: 1.7rem;
+    padding: 1rem;
+    text-align: justify;
+  }
+
+  &--button{
+
+    background-color: var(--color-primary-dark);
+    color: white;
+    font-size: 1.7rem;
+    padding: 1rem;
+    text-align: center;
+
+    &:hover{
+      background-color: var(--color-primary);
+    }
+
+  }
+
+}
